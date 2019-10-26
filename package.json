@@ -1,6 +1,12 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
+  "name": "andela-cloud-challenge",
+  "version": "4.0.0",
+  "description": "ALC 4.0 CLOUD TRACK CHALLENGE",
+  "repository": {
+    "url": "https://github.com/ProsperOmeh/ALC-CLOUD-CHALLENGE.git"
+  },
+  "readme": "READ.md",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "react": "^16.10.2",

@@ -6,17 +6,26 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>ALC 4.0 CLOUD TRACK CHALLENGE 1</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          CHALLENGE:&nbsp;
+          <a
+            className="App-status"
+            href="#"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Completed and Accepted
+          </a>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
+        <a  
+          className= "App-link"
+          href="https://lucid.blog/prosper"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          learn more...
         </a>
       </header>
     </div>
